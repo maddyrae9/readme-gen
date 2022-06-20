@@ -8,3 +8,6 @@ What is the title of your project?:  README Generator
 ? What are the contribution insructions for your project? N/A
 ? What are the test insructions for your project? N/A
 
+https://github.com/maddyrae9/readme-gen
+
+Steps are in #images folder for a walkthrough on how to create the readme using the generator.
